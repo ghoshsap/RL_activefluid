@@ -4,3 +4,6 @@ Building on recent advances enabling optogenetic control of experimental active 
 
 ## RL Setup and Control Goals
 <img src="https://github.com/ghoshsap/deep_rl_cupss/blob/main/images/rl_fig1.001.png" alt="Diagram" width="800" />
+
+## PPO implementation and Network architecture
+
