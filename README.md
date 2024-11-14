@@ -6,4 +6,5 @@ Building on recent advances enabling optogenetic control of experimental active 
 <img src="https://github.com/ghoshsap/deep_rl_cupss/blob/main/images/rl_fig1.001.png" alt="Diagram" width="800" />
 
 ## PPO implementation and Network architecture
+<img src="https://github.com/ghoshsap/deep_rl_cupss/blob/main/images/ppo_flow_chart_2.001.png" alt="Diagram" width="900" />
 
