@@ -12,7 +12,7 @@ Building on recent advances enabling optogenetic control of experimental active 
 
 Install the [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit) <br>
 PDE solver installation: [cuPSS](https://github.com/fcaballerop/cuPSS). <br>
-Install msgpack for server-client communication: [magpack](https://github.com/msgpack/msgpack-c/tree/cpp_master).
+Install msgpack for server-client communication: [msgpack](https://github.com/msgpack/msgpack-c/tree/cpp_master).
 ```bash
  CUDA > 12.0
  Python = 3.10
