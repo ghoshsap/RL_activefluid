@@ -11,12 +11,14 @@ Building on recent advances enabling optogenetic control of experimental active 
 ### Dependencies 
 
 Install the [CUDA Toolkit](https://developer.nvidia.com/cuda-toolkit)
+PDE solver installation: [cuPSS](https://github.com/fcaballerop/cuPSS).
+Install msgpack for server-client communication: [magpack](https://github.com/msgpack/msgpack-c/tree/cpp_master).
 ```bash
  CUDA > 12.0
  Python = 3.10
  PyTorch = 2.4.0
 ```
-PDE solver installation: [cuPSS](https://github.com/fcaballerop/cuPSS).
+
 
 
 
