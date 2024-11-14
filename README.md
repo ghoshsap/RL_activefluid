@@ -9,15 +9,15 @@ Building on recent advances enabling optogenetic control of experimental active 
 <img src="https://github.com/ghoshsap/deep_rl_cupss/blob/main/images/ppo_flow_chart_2.001.png" alt="Diagram" width="900" />
 
 ### Requirements 
-
-PDE solver installation [cuPSS](https://github.com/fcaballerop/cuPSS).
-
 ```bash
  CUDA > 12.0
  Python = 3.10
  PyTorch = 2.4.0
  nvcc
 ```
+PDE solver installation: [cuPSS](https://github.com/fcaballerop/cuPSS).
+
+
 
 #### Submitting a training job on HPCC Cluster
 
