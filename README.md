@@ -19,7 +19,10 @@ Install msgpack for server-client communication: [msgpack](https://github.com/ms
  PyTorch = 2.4.0
 ```
 
+## Description 
 
+- `solver_q_init_noise.cpp`: compile this file to get server executable.
+- `ray_q_mes_noise.py`: starts training. 
 
 
 #### Submitting a training job on HPCC Cluster
