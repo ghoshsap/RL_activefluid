@@ -10,6 +10,8 @@ Building on recent advances enabling optogenetic control of experimental active 
 
 ### Requirements 
 
+PDE solver installation [cuPSS](https://github.com/fcaballerop/cuPSS).
+
 ```bash
  CUDA > 12.0
  Python = 3.10
